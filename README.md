@@ -1,3 +1,5 @@
+Fork from https://www.npmjs.com/package/cordova-plugin-applist 
+
 #A plugin to give the list of all installed apps with their icons
 
 Fork of https://github.com/jmrezayi2/Applist
